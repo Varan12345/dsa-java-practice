@@ -1,4 +1,4 @@
-//wap which will print the  eveno  and non negative numbers to the left side of a arr
+//wap which will print  the  eveno  and non negative numbers to the left side of a arr
 public class left_eveno {
     public static void main(String[] args) {
      
