@@ -10,7 +10,7 @@ public class maximum_subarray_sum {
             }
             if(sum<0){
                 sum=0;
-            }
+            } 
         }
         System.out.println(max_sum);
     }

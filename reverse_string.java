@@ -1,33 +1,22 @@
-// public class reverse_string {
-//     public static void main(String[] args) {
-//         String str="java program";
-//         String []str1=str.split(" ");
-//         for (String str11:str1){
-//             String temp="";
-        
-//         for (int i=str.length()-1;i>=0;i--){
-//            temp+=str11.charAt(i);
-//         }
-//         System.out.println(temp);
-//     }
-//     System.out.println();
-// }
-// }
+import java.util.Stack;
+
 public class reverse_string {
     public static void main(String[] args) {
+        String str = "Hello";
+        Stack<Character> s = new Stack<>();
 
-        String str="java program";
-        String []str1=str.split(" ");
-
-        for (String str11 : str1) {
-
-            String temp="";
-
-            for (int i=str11.length()-1;i>=0;i--){
-                temp += str11.charAt(i);
-            }
-
-            System.out.println(temp);
+        for (int i = 0; i < str.length(); i++) {
+            s.push(str.charAt(i));
         }
+
+        String s1 = "";
+        while (!s.isEmpty()) {
+            s1 += s.pop();
+        }
+
+        System.out.println(s1);
     }
 }
+//create satck using linked list
+//remove consecutive duplicates [aaabcd]=[abcd]
+//next greater element[4,5,2,2,25]
