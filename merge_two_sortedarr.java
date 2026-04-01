@@ -1,3 +1,4 @@
+import java.util.ListNode;
 import java.util.*;
 class Solution {
     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {

@@ -6,11 +6,11 @@ class Solution {
 
         for (char ch : s.toCharArray()) {
 
-            // If opening bracket → push
+        
             if (ch == '(' || ch == '{' || ch == '[') {
                 stack.push(ch);
             } 
-            // If closing bracket
+        
             else {
                 if (stack.isEmpty()) return false;
 
