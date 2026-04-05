@@ -38,7 +38,7 @@ class insert_pattern {
                 map2.put(word, ch);
             }
         }
-        
+        System.out.println("the value is true");
         return true;
     }
 }
