@@ -7,5 +7,6 @@ public static void main(String[] args) {
         altitude += arr[i];
         max_altitude = Math.max(max_altitude, altitude);
     }   System.out.println("The highest altitude is: " + max_altitude);
+    System.out.println();
 
 }}
