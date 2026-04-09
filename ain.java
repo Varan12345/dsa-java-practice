@@ -6,7 +6,6 @@ public class Main {
         int result = strStr(haystack, needle);
         System.out.println(result);  // Output: -1
     }
-
     public static int strStr(String haystack, String needle) {
         int n = haystack.length();
         int m = needle.length();
@@ -17,7 +16,7 @@ public class Main {
             while (j < m && haystack.charAt(i + j) == needle.charAt(j)) {
                 j++;
             }
-
+        //  th
             if (j == m) {
                 return i;
             }
