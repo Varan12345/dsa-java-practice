@@ -1,4 +1,4 @@
-public class Main {
+public class ain {
     public static void main(String[] args) {
         String haystack = "leetcode";
         String needle = "leeto";
