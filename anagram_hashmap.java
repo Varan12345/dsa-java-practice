@@ -3,7 +3,7 @@ import java.util.HashMap;
 public class anagram_hashmap {
     public static void main(String[] args) {
         String s="hello";
-        String t="bello";
+        String t="gello"
 
         if(s.length()!=t.length()){
             System.out.println(false);
