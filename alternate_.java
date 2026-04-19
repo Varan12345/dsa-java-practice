@@ -44,7 +44,7 @@ public class alternate_ {
         q.add(60);
 
         alternateK(q, 2);
-
+    System.out.println(q);
         System.out.println(q);
     }
 }
