@@ -13,7 +13,7 @@ public class reverse_string {
         while (!s.isEmpty()) {
             s1 += s.pop();
         }
-
+          System.out.println();
         System.out.println(s1);
     }
 }
