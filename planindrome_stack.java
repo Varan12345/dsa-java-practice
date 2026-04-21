@@ -25,4 +25,5 @@ public class planindrome_stack{
 
  if (isplaindrome(st)) System.out.println("Its palindrome");
  else System.out.println("its not palindrome");
+ System.out.println("");
     }}
