@@ -13,7 +13,7 @@ public class buy_and_sell_stock {
                 maxProfit = price - minPrice; // Update maximum profit
             }
         }
-
+        
         return maxProfit;
     }
 }
