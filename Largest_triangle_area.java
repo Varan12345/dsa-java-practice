@@ -12,4 +12,5 @@ public class Largest_triangle_area {
                             points[k][0] * (points[i][1] - points[j][1]));
                     maxArea = Math.max(maxArea, area);
                 }
-            }}
+            }
+        }}}
