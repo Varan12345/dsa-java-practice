@@ -20,5 +20,6 @@ class Solution {
             }
         }
         return new String(arr);
+        System.out.ln("");
     }
 }
