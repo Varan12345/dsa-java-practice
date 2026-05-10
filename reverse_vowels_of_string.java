@@ -33,5 +33,6 @@ class reverse_vowels_of_string {
         }
 
         return String.valueOf(arr);
+        System.out.println();
     }
 }

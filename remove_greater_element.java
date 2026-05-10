@@ -33,5 +33,6 @@ public class remove_greater_element {
         Stack<Integer> result = removeGreater(num);
 
         System.out.println(result);
+        System.out.println();
     }
 }
