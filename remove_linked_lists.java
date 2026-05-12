@@ -17,5 +17,6 @@ public class remove_linked_lists {
         }
 
         return head; // Return the modified linked list
+        System.out.println();
     }
 }
