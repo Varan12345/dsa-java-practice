@@ -32,6 +32,7 @@ int n = arr.length;
         } else {
             System.out.println("The third maximum value is: " + thirdMax);
         }
+        System.out.println();
     }
 }
         
