@@ -55,5 +55,6 @@ class Solution {
         }
 
         return dummy.next; // return the head of the merged list
+               System.out.println();
     }
 }
