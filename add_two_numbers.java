@@ -17,6 +17,7 @@
             current.next = new ListNode(carry);
         }
         return dummyHead.next;
+        System.out.println();
     }
     
     
