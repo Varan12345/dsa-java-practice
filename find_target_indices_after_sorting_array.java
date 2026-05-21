@@ -8,5 +8,6 @@ class Solution{
             }
         }
         return result;
+        System.out.println();
     }
 }

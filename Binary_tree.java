@@ -1,3 +1,5 @@
+import org.w3c.dom.Node;
+
 public class Binary_tree {
     static class Node {
         int data;
@@ -52,5 +54,6 @@ public class Binary_tree {
         System.out.println(root.data);
         // preorder(root);
         inorder(root);
+        //   System.out.println();
     }
 }

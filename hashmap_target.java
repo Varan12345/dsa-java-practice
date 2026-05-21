@@ -17,6 +17,7 @@ public class hashmap_target {
                 break;
             }
             map.put(num,i);
+            //   System.out.println();
          }
     }
 }
