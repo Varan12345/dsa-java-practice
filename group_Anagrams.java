@@ -15,5 +15,6 @@ class Solution {
                 map.get(sorted).add(word);
         }
         return new ArrayList<>(map.values());
+        //system.out.println();
     }
 }

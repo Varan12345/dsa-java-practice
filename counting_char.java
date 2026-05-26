@@ -17,6 +17,6 @@ public class counting_char {
             }
         
         }
-        
+        //System.out.println();
     }
 }

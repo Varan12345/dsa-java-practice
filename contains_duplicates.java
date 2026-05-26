@@ -13,6 +13,6 @@ public class contains_duplicates {
             }
        
         }
- System.out.println(found);
+ //System.out.println(found);
     }
 }
