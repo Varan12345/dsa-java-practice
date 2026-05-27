@@ -13,5 +13,6 @@ public class Solution {
         }
 
         return pointerA; 
+        //System.out.println();
 }
 }

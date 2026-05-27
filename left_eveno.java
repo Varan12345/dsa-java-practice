@@ -21,6 +21,7 @@ public class left_eveno {
         for(int num : arr){
             System.out.print(num + " ");
         }
+        //System.out.println();
     }
 }
         

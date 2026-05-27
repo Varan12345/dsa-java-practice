@@ -19,5 +19,6 @@ public class hashmap_target {
             map.put(num,i);
             //   System.out.println();
          }
+         //System.out.println();
     }
 }

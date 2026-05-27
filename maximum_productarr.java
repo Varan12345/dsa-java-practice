@@ -8,5 +8,6 @@ public class maximum_productarr {
             
     }
     System.out.println(temp);
+    //System.out.println();
 }
 }

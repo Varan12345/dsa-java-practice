@@ -16,5 +16,6 @@ public class k_beauty_of _the_number {
         }
 
         return count;
+        //System.out.println();
     }
 }
