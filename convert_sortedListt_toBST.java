@@ -16,7 +16,7 @@ class Solution {
         }
         
         if (prev != null) {
-            prev.next = null; // Split the list into two halves
+            prev.next = null; 
         }
         
         treeNode root = new treeNode(slow.val);
@@ -24,5 +24,6 @@ class Solution {
         root.right = sortedListToBST(slow.next); // Right half
         
         return root;
+        // system.out.println();
     }           
 }
