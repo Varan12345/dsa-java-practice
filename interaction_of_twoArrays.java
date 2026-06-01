@@ -16,7 +16,7 @@ class Solution{
             }
         }
 
-        // Convert the list to an array
+        
         int[] result = new int[intersection.size()];
         for (int i = 0; i < intersection.size(); i++) {
             result[i] = intersection.get(i);
