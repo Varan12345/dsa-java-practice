@@ -15,7 +15,7 @@ class Solution {
         }
 
         return left; // insert position
-        System.out.println();
-        System.out.println();
+        // System.out.println();
+        // System.out.println();
     }
 }

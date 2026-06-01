@@ -22,7 +22,7 @@ class Solution{
         }
         ListNode newHead = newTail.next;
 
-        // Break the circle
+        
         newTail.next = null;
 
         return newHead;
