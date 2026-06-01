@@ -25,5 +25,5 @@ public class sort_colors {
         for(int j=0;j<arr.length;j++){
             System.out.print(arr[j]+" ");
         }
-    }//system.out.println();
+    }
 }
