@@ -55,6 +55,6 @@ public class Binary_tree {
         System.out.println(root.data);
         // preorder(root);
         inorder(root);
-        //   System.out.println();
+        
     }
 }
