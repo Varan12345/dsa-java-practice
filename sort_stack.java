@@ -33,6 +33,6 @@ public class sort_stack {
         Stack<Integer> sorted = sort(num);
 
         System.out.println(sorted);
-        // 
+        
     }
 }
