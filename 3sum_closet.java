@@ -10,7 +10,7 @@
             while (left < right) {
                 int currentSum = nums[i] + nums[left] + nums[right];
 
-                // Update closestSum if currentSum is closer to target
+                // //Update closestSum if currentSum is closer to target
                 if (Math.abs(currentSum - target) < Math.abs(closestSum - target)) {
                     closestSum = currentSum;
                 }

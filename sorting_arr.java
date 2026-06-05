@@ -8,7 +8,7 @@ public class sorting_arr{
 
 //         int[] arr = {5, 3, 2, 4, 1};
 
-//         int n = arr.length;
+//     /    int n = arr.length;
 
 //         // Bubble Sort
 //         for (int i = 0; i < n - 1; i++) {
