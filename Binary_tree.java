@@ -38,7 +38,7 @@ public class Binary_tree {
         preorder(root.right);
         
     }
-    // inorder travrsal
+    //// inorder travrsal
     public static void inorder(Node root) {
         if(root==null){
          return;
