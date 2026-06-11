@@ -16,5 +16,5 @@ class Solution {
         node.right = buildBST(nums, mid + 1, end);
         return node;
     }
-    
+    //
 }

@@ -45,7 +45,7 @@ public class Binary_tree {
         }
         inorder(root.left);
         System.out.println(root.data+"");
-        // //System.out.print();
+        
         inorder(root.right);
     }
     public static void main(String[] args) {
