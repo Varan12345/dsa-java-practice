@@ -5,6 +5,6 @@ class Solution {
             result ^= num;
         }
         return result;
-       // System.out.println();
+       
      }
 }
