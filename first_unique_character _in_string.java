@@ -14,6 +14,6 @@ class Solution {
             }
         }
         
-        return -1; // Return -1 if there is no unique character
+        return -1; // Return -1 if there is no unique character//
     }
 }
