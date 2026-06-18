@@ -16,6 +16,6 @@ class Solution {
         }
 
         return left;
-    
+    // The left pointer will be at the peak element when the loop ends              
     }
 }
