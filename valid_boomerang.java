@@ -5,7 +5,7 @@ class Solution  {
         int x3 = points[2][0], y3 = points[2][1];
         
         return (y2 - y1) * (x3 - x2) != (y3 - y2) * (x2 - x1);
-        // 
+        
     }
 
 }
