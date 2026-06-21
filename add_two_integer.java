@@ -5,6 +5,6 @@ class Solution{
             a = a ^ b; // Sum without carry
             b = carry; // Update b to carry for next iteration
         }
-        return a; // Final sum is stored in a
+        return a; // Final sum is stored in a//
     }
 }

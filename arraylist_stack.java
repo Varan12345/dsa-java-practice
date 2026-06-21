@@ -20,7 +20,7 @@ public class arraylist_stack {
     public static void main(String[] args) {
    arraylist_stack obj=new arraylist_stack();
           obj.stack();
-              //
+              
         }
     }
 
