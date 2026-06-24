@@ -10,6 +10,6 @@ class Solution {
             minB = Math.min(minB, op[1]);
         }
         return minA * minB;
-        //
+        
     }
 }
