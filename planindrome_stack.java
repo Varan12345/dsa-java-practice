@@ -20,7 +20,7 @@ public class planindrome_stack{
             st.push(5);
             st.push(4);
             st.push(3);
-            st.push(4);
+            st.push(4);//
             st.push(5);
 
  if (isplaindrome(st)) System.out.println("Its palindrome");
