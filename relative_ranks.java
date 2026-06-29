@@ -21,7 +21,7 @@ class Solution {
                     result[i] = String.valueOf(rank);
             }
         }
-
+//
         return result;
     }
 }

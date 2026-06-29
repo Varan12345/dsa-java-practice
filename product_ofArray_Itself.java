@@ -16,6 +16,6 @@ class Solution {
             suffixProduct *= nums[i];
         }
 
-        return result;//
+        return result;
     }
 }

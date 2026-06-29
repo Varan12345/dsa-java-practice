@@ -34,6 +34,6 @@ public class remove_greater_element {
 
         System.out.println(result);
         System.out.println();
-        System.out.println();//
+        System.out.println();
     }
 }
