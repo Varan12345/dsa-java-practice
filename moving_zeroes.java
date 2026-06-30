@@ -8,7 +8,7 @@ public class moving_zeroes {
                 arr[k++]=arr[i];
             }
            
-        }//
+        }
         while(k<arr.length){
             arr[k++]=0;
         }

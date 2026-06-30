@@ -17,7 +17,7 @@ class Solution {
                 backtrack(nums, current, result);
                 current.remove(current.size() - 1);
             }
-                //   System.out.println();
+                
         }
     }
 }
