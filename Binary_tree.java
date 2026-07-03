@@ -12,7 +12,7 @@ public class Binary_tree {
             this.right=null;
         }
 
-    }
+    }//
     static class BinaryTree{
         static int idx=-1;
         public static Node buildTree(int nodes[]) {
