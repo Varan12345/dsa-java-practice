@@ -21,7 +21,7 @@
                 } else if (currentSum > target) {
                     right--;
                 } else {
-                    // If currentSum is exactly equal to target, return it immediately
+                    // If currentSum is exactly equal to target, return it immediately//
                     return currentSum;
                 }
             }
