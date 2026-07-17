@@ -18,8 +18,8 @@ class Solution {
                     result.add(Arrays.asList(nums[i], nums[left], nums[right]));
                     left++;
                     right--;
-
-                    // Skip duplicate elements//
+////
+                    // Skip duplicate elements
                     while (left < right && nums[left] == nums[left - 1]) {
                         left++;
                     }
