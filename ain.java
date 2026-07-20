@@ -16,7 +16,8 @@ public class ain {
             while (j < m && haystack.charAt(i + j) == needle.charAt(j)) {
                 j++;
             }
-        //  th
+          
+            
             if (j == m) {
                 return i;
             }
