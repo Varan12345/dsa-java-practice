@@ -12,6 +12,8 @@ public class leadersarr {
               ans[j] = curr_max;
               j++;
            }
+
+           //
         }
         for(int k=j-1;k>=0;k--){
             System.out.print(ans[k]+" ");
