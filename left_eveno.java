@@ -17,7 +17,6 @@ public class left_eveno {
                 left++;
             }
         }
-        i
 
         for(int num : arr){
             System.out.print(num + " ");
