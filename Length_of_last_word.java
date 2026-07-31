@@ -8,8 +8,6 @@ class Solution {
             i--;
         }
 
-        ///
-
 
         while (i >= 0 && s.charAt(i) != ' ') {
             length++;

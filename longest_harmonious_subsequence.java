@@ -12,11 +12,14 @@ class Solution {
                     count++;
 
                 }
+            
                 if(nums[j]==nums[i]+1){
                     count++;
                     found =true;
                 }
             }
+            
+
                 if(found){
                     maxLen=Math.max( maxLen,count);
                 }
