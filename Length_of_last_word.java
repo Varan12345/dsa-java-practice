@@ -7,7 +7,7 @@ class Solution {
         while (i >= 0 && s.charAt(i) == ' ') {
             i--;
         }
-
+//
 
         while (i >= 0 && s.charAt(i) != ' ') {
             length++;

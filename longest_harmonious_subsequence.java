@@ -13,6 +13,8 @@ class Solution {
 
                 }
             
+
+            //
                 if(nums[j]==nums[i]+1){
                     count++;
                     found =true;
@@ -20,6 +22,8 @@ class Solution {
             }
             
 
+
+            //
                 if(found){
                     maxLen=Math.max( maxLen,count);
                 }

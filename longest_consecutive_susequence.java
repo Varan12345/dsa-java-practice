@@ -20,9 +20,6 @@ class Solution{
                 longestStreak = Math.max(longestStreak, currentStreak);
             }
         }
-
-
         return longestStreak;
-        //
     }
 }
