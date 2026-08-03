@@ -7,11 +7,16 @@ class Solution {
         int n = transactions.length;
         boolean[] invalid = new boolean[n];
 
+
+        //
         String[] names = new String[n];
         int[] times = new int[n];
         int[] amounts = new int[n];
         String[] cities = new String[n];
 
+
+
+        //
         for (int i = 0; i < n; i++) {
             String[] parts = transactions[i].split(",");
 
@@ -24,6 +29,8 @@ class Solution {
                 invalid[i] = true;
             }
         }
+
+        //
 
         for (int i = 0; i < n; i++) {
 

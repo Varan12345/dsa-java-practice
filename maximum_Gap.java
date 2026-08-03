@@ -38,7 +38,5 @@ class Solution {
         }
 
         return maxGap;
-
-        
     }
 }

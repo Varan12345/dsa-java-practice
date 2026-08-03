@@ -11,6 +11,9 @@ public static void main(String[] args) {
                 break;
             }
         }
+        //
+
+        
         if(flag==false){
             System.out.println(str[0].substring(0,i));
             return;

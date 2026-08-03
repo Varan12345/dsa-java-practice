@@ -13,5 +13,5 @@ public class Largest_triangle_area {
                     maxArea = Math.max(maxArea, area);
                 }
             }
-            //System.out.println();
-        }}}
+        }}
+    }
