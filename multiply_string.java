@@ -24,9 +24,13 @@ class Solution {
             if (!(sb.length() == 0 && digit == 0)) {
                 sb.append(digit);
             }
+
+            //
         }
 
         return sb.length() == 0 ? "0" : sb.toString();
                System.out.println();
+
+               //
     }
 }
