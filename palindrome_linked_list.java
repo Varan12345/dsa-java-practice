@@ -15,7 +15,7 @@ class Solution {
         while(head!=null){
             list.add(head.val);
             head=head.next;
-                    }//
+                    }
 
         int left=0;
         int right=list.size()-1;
@@ -29,6 +29,5 @@ class Solution {
 
         }   
         return true;        
-        //System.out.println();
     }
 }
