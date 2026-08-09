@@ -1,7 +1,8 @@
 import java.util.*;
 
 public class queue{
-
+///
+/// 
     static void reverseK(Queue<Integer> q, int k) {
 
         if (q.isEmpty() || k > q.size()) return;

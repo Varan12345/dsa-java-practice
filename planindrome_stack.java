@@ -15,6 +15,7 @@ public class planindrome_stack{
     }
     return true;
     }
+    ///
     public static void main(String[] args){
    Stack <Integer> st=new Stack();
             st.push(5);
