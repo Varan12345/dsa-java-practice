@@ -13,6 +13,8 @@ public class remove_duplicates {
         for (int k = 0; k < j; k++) {
             System.out.print(arr[k] + " ");
         }
+        //
+
         
     }
 }
