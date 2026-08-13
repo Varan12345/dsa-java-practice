@@ -6,7 +6,6 @@ class MyHashMap {
         size = 1000;
         map = new LinkedList[size];
     }
-//
 
     public void put(int key, int value) {
         int index = key % size;
