@@ -14,6 +14,7 @@ public class sliding_window {
             ans[j++] = max;
         }
 
+        //
         System.out.println("The maximum elements in each sliding window are: ");
         for (int i = 0; i < ans.length; i++) {
             System.out.print(ans[i] + " ");

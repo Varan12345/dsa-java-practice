@@ -5,7 +5,8 @@ class Solution {
             ones = (ones ^ num) & ~twos;
             twos = (twos ^ num) & ~ones;
         }
-        return ones;//
+        return ones;
+        //
     }
     
 }

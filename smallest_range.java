@@ -6,6 +6,7 @@ class Solution{
             minHeap.offer(new int[]{i, 0});
             max = Math.max(max, nums.get(i).get(0));
         }
+        //
         int rangeStart = 0, rangeEnd = Integer.MAX_VALUE;
         while (minHeap.size() == nums.size()) {
             int[] min = minHeap.poll();
