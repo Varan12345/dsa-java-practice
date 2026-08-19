@@ -8,8 +8,6 @@ class Solution {
         }
         return result;
     }
-///
-/// 
     private boolean isSelfDividing(int n) {
         int original = n;
         while (n > 0) {

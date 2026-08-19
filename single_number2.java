@@ -6,7 +6,6 @@ class Solution {
             twos = (twos ^ num) & ~ones;
         }
         return ones;
-        //
     }
     
 }

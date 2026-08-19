@@ -25,6 +25,6 @@ class Solution {
         }
 
         return stack.isEmpty();
-        //System.out.println();
+        
     }
 }
