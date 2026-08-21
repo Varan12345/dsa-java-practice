@@ -15,5 +15,6 @@ public class pivot_index {
         }
         System.out.println("There is no pivot index.");
        
+        ///
     }
 }
