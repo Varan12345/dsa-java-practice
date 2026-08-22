@@ -2,6 +2,7 @@ class moving_zeroes_last {
     public void moveZeroes(int[] nums) {
         int j = 0; // position for next non-zero
 
+        
         for (int i = 0; i < nums.length; i++) {
             if (nums[i] != 0) {
            
