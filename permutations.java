@@ -11,7 +11,6 @@ class Solution {
             return;
         }
 
-        //
         for (int i = 0; i < nums.length; i++) {
             if (!current.contains(nums[i])) {
                 current.add(nums[i]);
