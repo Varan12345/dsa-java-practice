@@ -12,5 +12,6 @@ class Solution{
         // Recursively check left and right subtrees with updated targetSum
         int newTarget = targetSum - root.val;
         return hasPathSum(root.left, newTarget) || hasPathSum(root.right, newTarget);
+        //
 }
 }
