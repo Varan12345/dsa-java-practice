@@ -16,7 +16,6 @@ class  Solution{
       }
       return -1;
     }
-    //
     public int createPalidrome(int num){
         int pal=num;
         num /= 10;
