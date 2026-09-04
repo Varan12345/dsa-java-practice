@@ -14,7 +14,5 @@ public class pivot_index {
             left_sum += arr[i];
         }
         System.out.println("There is no pivot index.");
-       
-        ///
     }
 }
