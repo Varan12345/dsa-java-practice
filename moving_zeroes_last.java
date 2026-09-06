@@ -13,7 +13,6 @@ class moving_zeroes_last {
                 j++;
 
             }
-            ////
         }
     }
 }
