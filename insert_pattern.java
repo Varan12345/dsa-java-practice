@@ -40,6 +40,5 @@ class insert_pattern {
         }
         System.out.println("the value is true");
         return true;
-       
     }
 }
