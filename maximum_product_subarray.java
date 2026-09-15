@@ -17,7 +17,7 @@ class MaximumProductSubarray {
             }
 
 
-            //
+            
             // Update maxProduct and minProduct
             maxProduct = Math.max(nums[i], maxProduct * nums[i]);
             minProduct = Math.min(nums[i], minProduct * nums[i]);
