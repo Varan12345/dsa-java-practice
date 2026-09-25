@@ -17,7 +17,6 @@ public class container_with_mostwater {
             }
         }
         System.out.println(max_area);
-       //
        
     }
 }
