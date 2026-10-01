@@ -21,6 +21,5 @@ public class count_subarray {
         }
         System.out.println("The count of subarrays of size k with sum x is: " + count);
     }
-    //
 }
 
