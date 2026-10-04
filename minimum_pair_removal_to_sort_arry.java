@@ -12,8 +12,5 @@ public class minimum_pair_removal_to_sort_arry {
         }
    System.out.println(count);
         return count;
-
-        //
-        
     }
 }
