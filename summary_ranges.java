@@ -21,6 +21,7 @@ class Solution {
                 end = nums[i];
             }
         }
+        //
 
         // Add the last range
         if (start == end) {

@@ -14,7 +14,6 @@ class Solution {
                 dp[i] = Math.min(dp[i], dp[i + 1]) + triangle.get(layer).get(i);
             }
         }
-        
         return dp[0];
     }
 }
