@@ -6,5 +6,7 @@ class Solution  {
         
         return (y2 - y1) * (x3 - x2) != (y3 - y2) * (x2 - x1);
     }
+    //
+    
 
 }
