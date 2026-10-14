@@ -15,7 +15,6 @@ class Solution {
 
             map.put(mod, map.getOrDefault(mod, 0) + 1); // Update the count for this mod
         }
-//
         return count;
         
     }
