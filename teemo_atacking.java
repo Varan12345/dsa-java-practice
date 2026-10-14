@@ -10,7 +10,6 @@ class Solution {
                 totalDuration += timeSeries[i + 1] - timeSeries[i];
             }
         }
-//
         return totalDuration;
     }
 }
