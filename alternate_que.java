@@ -47,5 +47,6 @@ public class alternate_que {
 
         System.out.println(q);
         
+        //
     }
 }
