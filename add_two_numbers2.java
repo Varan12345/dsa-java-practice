@@ -26,8 +26,6 @@ class Solution{
                 carry = sum / 10;
             }
             return head;
-
-            //
             
     }
 }
