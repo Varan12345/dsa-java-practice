@@ -13,14 +13,11 @@ public class arraylist_stack {
 
         System.out.println(list);
     }
-    
-    
-        
-    
     public static void main(String[] args) {
    arraylist_stack obj=new arraylist_stack();
           obj.stack();
               
         }
+        //
     }
 
