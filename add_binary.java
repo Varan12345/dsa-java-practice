@@ -10,7 +10,6 @@ class Solution {
             carry = sum / 2;
         }
         return sb.reverse().toString();
-    //
     
     }
 }
