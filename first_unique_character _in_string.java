@@ -13,8 +13,6 @@ class Solution {
                 return i;
             }
         }
-        
-        //
 
         
         return -1; // Return -1 if there is no unique character//
