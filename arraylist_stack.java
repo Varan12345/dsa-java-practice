@@ -17,6 +17,8 @@ public class arraylist_stack {
    arraylist_stack obj=new arraylist_stack();
           obj.stack();
               
+
+          //
         }
     }
 

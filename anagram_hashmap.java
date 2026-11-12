@@ -26,8 +26,6 @@ public class anagram_hashmap {
 }
     System.out.println(true);
 
-    //
-
 
 }
 }
