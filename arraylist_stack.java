@@ -18,7 +18,6 @@ public class arraylist_stack {
           obj.stack();
               
 
-          //
         }
     }
 
