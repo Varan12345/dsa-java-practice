@@ -13,9 +13,6 @@ class Solution {
                 result.add(i);
             }
         }
-        //
-        
-
-        return result;
+           return result;
     }
 }
