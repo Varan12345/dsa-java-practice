@@ -14,6 +14,5 @@ public class running {
             System.out.print(arr1[i]+" ");
         }
         System.out.println("The sum of the array is: "+sum);
-        System.out.println();
     }
 }
