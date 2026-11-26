@@ -31,8 +31,6 @@ public class alternate_ {
             reverse = !reverse; 
         }
     }
-
-    //
     
 
     public static void main(String[] args) {
